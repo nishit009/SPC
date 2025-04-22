@@ -1,0 +1,57 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Environment variable files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Debug and IDE-specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build output directories
+/dist
+/build
+/.vite
+/.next
+
+# Miscellaneous
+*.bak
+*.swp
+*.swo
+*.tmp
+*.pid
+*.seed
+
+# TypeScript (if using)
+tsconfig.tsbuildinfo
+
+# Testing directories and files
+coverage/
+
+# Dependency directories
+bower_components/
+
+# JetBrains IDE files (IntelliJ, WebStorm, etc.)
+.idea/
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
