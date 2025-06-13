@@ -1,6 +1,7 @@
 import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
+import connectDB from "./db/database.js";
 dotenv.config({ path: "../.env" });
 const bart = express();
 bart.use(express.json());
@@ -11,9 +12,12 @@ bart.use(
     credentials: true,
   })
 );
-bart.listen(process.env.PORT, () => {
-  console.log(`backend is listening on http://localhost:${process.env.PORT}`);
+connectDB().then(() => {
+  bart.listen(process.env.PORT, () => {
+    console.log(`backend is listening on http://localhost:${process.env.PORT}`);
+  });
 });
+
 bart.get("/", (req, res) => {
   res.json({ message: "Sree Pavan Caterers" });
 });
