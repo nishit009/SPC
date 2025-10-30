@@ -1,13 +1,15 @@
-import React, { useContext, useState } from "react";
-import { Link } from "react-router-dom";
-import DatePicker from "react-datepicker";
-import "react-datepicker/dist/react-datepicker.css";
-import { Mycontext } from "./Mycontext";
+import React, { useContext, useState } from 'react';
+import { Link } from 'react-router-dom';
+import DatePicker from 'react-datepicker';
+import 'react-datepicker/dist/react-datepicker.css';
+import { Mycontext } from './Mycontext';
 
 function Booking() {
+  const [firstname, setFirstName] = useState('');
+  const [lastname, setLastName] = useState('');
   const [startDate, setStartDate] = useState(new Date());
-  const [searchQuery, setSearchQuery] = useState("");
-  const { options } = useContext(Mycontext);
+  const [searchQuery, setSearchQuery] = useState('');
+  const { options, BookingDetails, setBookingDetails } = useContext(Mycontext);
 
   const filteredOptions = options.filter((item) =>
     item.toLowerCase().includes(searchQuery.toLowerCase())
@@ -19,9 +21,7 @@ function Booking() {
         <form className="w-full flex flex-col items-center gap-y-6">
           <div className="w-full">
             {/* Date picker */}
-            <label className="block mb-2 text-sm font-medium">
-              Select a date:
-            </label>
+            <label className="block mb-2 text-sm font-medium">Select a date:</label>
             <DatePicker
               selected={startDate}
               onChange={(date) => setStartDate(date)}
@@ -35,6 +35,8 @@ function Booking() {
           <div className="w-full">
             <input
               type="text"
+              value={firstname}
+              onChange={(e) => setFirstName(e.target.value)}
               name="firstname"
               placeholder="First name"
               className="w-full h-12 px-4 text-base border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-[#f5d0c5]"
@@ -46,6 +48,8 @@ function Booking() {
             <input
               type="text"
               name="surname"
+              value={lastname}
+              onChange={(e) => setLastName(e.target.value)}
               placeholder="Surname"
               className="w-full h-12 px-4 text-base border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-[#f5d0c5]"
             />
@@ -81,8 +85,17 @@ function Booking() {
               Previous
             </Link>
             <Link
-              to="/booking/menu"
+              to="/booking/menu/details"
               className="text-sm text-[#5c4b44] hover:underline"
+              onClick={() => {
+                setBookingDetails((prev) => ({
+                  ...prev,
+                  date: startDate,
+                  firstname: firstname,
+                  lastname: lastname,
+                  selectedEvent: searchQuery,
+                }));
+              }}
             >
               Next
             </Link>
