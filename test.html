@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>8-Planet CSS Solar System with Asteroid Belt</title>
+    <style>
+        /*
+        * CSS for the 8-Planet Solar System Model
+        */
+
+        body {
+            background-color: #00001a; /* Deep Space Blue/Black */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            overflow: hidden;
+            font-family: Arial, sans-serif;
+        }
+
+        .solar-system {
+            position: relative;
+            width: 900px; /* Overall stage size */
+            height: 900px;
+            transform-origin: center center;
+        }
+
+        /* ------------------ Sun Styling ------------------ */
+        .sun {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 70px;
+            height: 70px;
+            margin: -35px 0 0 -35px; /* Center the sun */
+            border-radius: 50%;
+            background: radial-gradient(circle at 30% 30%, #ffeb3b, #ff9800);
+            box-shadow: 0 0 40px 10px rgba(255, 165, 0, 0.9);
+            z-index: 10;
+        }
+
+        /* ------------------ Base Styles for Orbits and Planets ------------------ */
+        .orbit {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            border: 1px dashed rgba(255, 255, 255, 0.05); /* Very subtle orbit line */
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            animation-name: orbit-rotation;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite;
+            z-index: 1;
+        }
+
+        .planet-wrapper {
+            position: absolute;
+            top: 50%; /* Position at the top edge of its orbit div */
+            left: 0;
+            transform: translate(-50%, -50%);
+            z-index: 5;
+        }
+
+        .planet {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            position: relative; /* Needed for moon positioning */
+        }
+
+        /* Keyframe for Orbital Rotation (All planets rotate counter-clockwise) */
+        @keyframes orbit-rotation {
+            from { transform: translate(-50%, -50%) rotate(0deg); }
+            to { transform: translate(-50%, -50%) rotate(-360deg); }
+        }
+
+        /* ------------------ Moon Styles ------------------ */
+        .moon-orbit {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 30px;
+            height: 30px;
+            margin: -15px 0 0 -15px; /* Center relative to planet */
+            border-radius: 50%;
+            animation-name: moon-rotation;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite;
+            animation-duration: 2s; /* Fast Moon Orbit */
+            /* border: 1px dotted rgba(255, 255, 255, 0.1); */
+        }
+
+        .moon {
+            position: absolute;
+            top: 0; /* Position at the top edge of its orbit div */
+            left: 50%;
+            width: 4px;
+            height: 4px;
+            border-radius: 50%;
+            background-color: #e0e0e0;
+            transform: translate(-50%, -50%);
+        }
+
+        @keyframes moon-rotation {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        /* ------------------ Asteroid Belt ------------------ */
+        .asteroid-belt {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 480px; /* Inner edge */
+            height: 480px;
+            border: 10px solid transparent;
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 2;
+            animation: orbit-rotation 120s linear infinite;
+        }
+
+        .asteroid-belt::before {
+            content: '';
+            position: absolute;
+            inset: -20px;
+            border: 20px solid rgba(139, 69, 19, 0.2); /* Brown/Dusty look */
+            border-radius: 50%;
+            box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.05) inset;
+            pointer-events: none;
+            /* Create a grainy texture */
+            background-image: radial-gradient(circle, rgba(255,255,255,0.3) 1px, transparent 1px);
+            background-size: 8px 8px;
+        }
+
+
+        /* ------------------ Planet-Specific Styles (Size and Color) ------------------ */
+
+        /* Mercury */
+        .orbit-mercury { width: 100px; height: 100px; animation-duration: 8s; }
+        .planet-mercury { width: 8px; height: 8px; background-color: #a9a9a9; }
+
+        /* Venus */
+        .orbit-venus { width: 150px; height: 150px; animation-duration: 15s; }
+        .planet-venus { width: 12px; height: 12px; background-color: #b87333; }
+
+        /* Earth */
+        .orbit-earth { width: 200px; height: 200px; animation-duration: 25s; }
+        .planet-earth { width: 16px; height: 16px; background-color: #0077be; }
+        .moon-earth .moon { background-color: #ffffff; }
+
+        /* Mars */
+        .orbit-mars { width: 250px; height: 250px; animation-duration: 40s; }
+        .planet-mars { width: 14px; height: 14px; background-color: #c95c3b; }
+
+        /* Jupiter */
+        .orbit-jupiter { width: 550px; height: 550px; animation-duration: 100s; }
+        .planet-jupiter { width: 40px; height: 40px; background-color: #ffc107; background-image: linear-gradient(to right, rgba(255,255,255,0.5) 10%, transparent 10%, transparent 90%, rgba(255,255,255,0.5) 90%); }
+        .moon-jupiter { animation-duration: 3s; width: 50px; height: 50px; margin: -25px 0 0 -25px; }
+        .moon-jupiter .moon { background-color: #f0e68c; }
+
+        /* Saturn */
+        .orbit-saturn { width: 650px; height: 650px; animation-duration: 150s; }
+        .planet-saturn { width: 35px; height: 35px; background-color: #daa520; }
+        /* Saturn's Rings (A pseudo-element attached to the planet) */
+        .planet-saturn::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 60px;
+            height: 60px;
+            border: 4px solid #f5deb3;
+            border-radius: 50%;
+            transform: translate(-50%, -50%) rotate(70deg); /* Tilt the ring */
+            box-shadow: 0 0 5px rgba(255, 255, 255, 0.3);
+            z-index: -1;
+        }
+        .moon-saturn { animation-duration: 4s; }
+        .moon-saturn .moon { background-color: #deb887; }
+
+        /* Uranus */
+        .orbit-uranus { width: 750px; height: 750px; animation-duration: 200s; }
+        .planet-uranus { width: 28px; height: 28px; background-color: #add8e6; }
+        .moon-uranus { animation-duration: 5s; }
+
+        /* Neptune */
+        .orbit-neptune { width: 850px; height: 850px; animation-duration: 250s; }
+        .planet-neptune { width: 26px; height: 26px; background-color: #4169e1; }
+        .moon-neptune { animation-duration: 6s; }
+
+    </style>
+</head>
+<body>
+
+    <div class="solar-system">
+        <div class="sun"></div>
+
+        <div class="orbit orbit-mercury"><div class="planet-wrapper"><div class="planet planet-mercury"></div></div></div>
+        <div class="orbit orbit-venus"><div class="planet-wrapper"><div class="planet planet-venus"></div></div></div>
+
+        <div class="orbit orbit-earth">
+            <div class="planet-wrapper">
+                <div class="planet planet-earth">
+                    <div class="moon-orbit moon-earth"><div class="moon"></div></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="orbit orbit-mars"><div class="planet-wrapper"><div class="planet planet-mars"></div></div></div>
+
+        <div class="asteroid-belt"></div>
+
+        <div class="orbit orbit-jupiter">
+            <div class="planet-wrapper">
+                <div class="planet planet-jupiter">
+                    <div class="moon-orbit moon-jupiter"><div class="moon"></div></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="orbit orbit-saturn">
+            <div class="planet-wrapper">
+                <div class="planet planet-saturn">
+                    <div class="moon-orbit moon-saturn"><div class="moon"></div></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="orbit orbit-uranus">
+            <div class="planet-wrapper">
+                <div class="planet planet-uranus">
+                    <div class="moon-orbit moon-uranus"><div class="moon"></div></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="orbit orbit-neptune">
+            <div class="planet-wrapper">
+                <div class="planet planet-neptune">
+                    <div class="moon-orbit moon-neptune"><div class="moon"></div></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,4710 @@
+[
+  {
+    "item_name": "Paneer Butter Masala",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Dinner Party",
+      "Brunch"
+    ],
+    "description": "Paneer Butter Masala is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.5
+  },
+  {
+    "item_name": "Dal Tadka",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Baby Shower",
+      "Wedding",
+      "Get-together",
+      "Housewarming"
+    ],
+    "description": "Dal Tadka is a popular vegetarian appetizer from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Vegetable Biryani",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Office Party",
+      "Corporate Lunch",
+      "Festival",
+      "Dinner Party"
+    ],
+    "description": "Vegetable Biryani is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Masala Dosa",
+    "variants": [
+      "Royal",
+      "Classic"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Reception",
+      "Birthday Party"
+    ],
+    "description": "Masala Dosa is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 4.8
+  },
+  {
+    "item_name": "Chole Bhature",
+    "variants": [
+      "Royal",
+      "Delight"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Baby Shower",
+      "Dinner Party",
+      "Festival"
+    ],
+    "description": "Chole Bhature is a popular vegetarian appetizer from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 4.1
+  },
+  {
+    "item_name": "Rajma Chawal",
+    "variants": [
+      "Express",
+      "Special"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Wedding",
+      "Baby Shower",
+      "Brunch",
+      "Reception"
+    ],
+    "description": "Rajma Chawal is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Palak Paneer",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Office Party",
+      "Brunch"
+    ],
+    "description": "Palak Paneer is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 4.8
+  },
+  {
+    "item_name": "Aloo Gobi",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Corporate Lunch",
+      "Housewarming",
+      "Brunch"
+    ],
+    "description": "Aloo Gobi is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.0
+  },
+  {
+    "item_name": "Baingan Bharta",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Baby Shower",
+      "Housewarming"
+    ],
+    "description": "Baingan Bharta is a popular vegetarian appetizer from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 4.6
+  },
+  {
+    "item_name": "Dhokla",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Corporate Lunch",
+      "Office Party"
+    ],
+    "description": "Dhokla is a popular vegetarian main course from Indian (West) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.5
+  },
+  {
+    "item_name": "Undhiyu",
+    "variants": [
+      "Royal",
+      "Express"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Birthday Party",
+      "Get-together",
+      "Baby Shower"
+    ],
+    "description": "Undhiyu is a popular vegetarian dessert from Indian (West) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 3.5
+  },
+  {
+    "item_name": "Veg Pulao",
+    "variants": [
+      "Delight",
+      "Express"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Office Party",
+      "Reception",
+      "Dinner Party",
+      "Birthday Party"
+    ],
+    "description": "Veg Pulao is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 4.6
+  },
+  {
+    "item_name": "Malai Kofta",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Housewarming",
+      "Corporate Lunch",
+      "Festival",
+      "Office Party"
+    ],
+    "description": "Malai Kofta is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Sambar Rice",
+    "variants": [
+      "Royal",
+      "Classic"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Dinner Party",
+      "Brunch",
+      "Festival",
+      "Corporate Lunch"
+    ],
+    "description": "Sambar Rice is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Kadhi Pakora",
+    "variants": [
+      "Delight",
+      "Royal"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Housewarming",
+      "Birthday Party",
+      "Dinner Party",
+      "Festival"
+    ],
+    "description": "Kadhi Pakora is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.2
+  },
+  {
+    "item_name": "Pav Bhaji",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Dinner Party",
+      "Wedding"
+    ],
+    "description": "Pav Bhaji is a popular vegetarian dessert from Indian (West) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 4.1
+  },
+  {
+    "item_name": "Veg Fried Rice",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Indian (Indo-Chinese)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Wedding",
+      "Reception"
+    ],
+    "description": "Veg Fried Rice is a popular vegetarian main course from Indian (Indo-Chinese) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Paneer Tikka",
+    "variants": [
+      "Express",
+      "Special"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Get-together",
+      "Corporate Lunch",
+      "Office Party"
+    ],
+    "description": "Paneer Tikka is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.2
+  },
+  {
+    "item_name": "Rasgulla",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Indian (East)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Housewarming",
+      "Festival",
+      "Office Party"
+    ],
+    "description": "Rasgulla is a popular vegetarian main course from Indian (East) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Rasmalai",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (East)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Baby Shower",
+      "Reception",
+      "Brunch"
+    ],
+    "description": "Rasmalai is a popular vegetarian dessert from Indian (East) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.3
+  },
+  {
+    "item_name": "Kesar Kulfi",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Corporate Lunch",
+      "Birthday Party"
+    ],
+    "description": "Kesar Kulfi is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.3
+  },
+  {
+    "item_name": "Gajar Halwa",
+    "variants": [
+      "Delight",
+      "Royal"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Reception",
+      "Brunch",
+      "Baby Shower",
+      "Housewarming"
+    ],
+    "description": "Gajar Halwa is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Jalebi",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Baby Shower",
+      "Wedding"
+    ],
+    "description": "Jalebi is a popular vegetarian appetizer from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 4.1
+  },
+  {
+    "item_name": "Gulab Jamun",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Office Party",
+      "Birthday Party",
+      "Baby Shower",
+      "Festival"
+    ],
+    "description": "Gulab Jamun is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Idli Sambar",
+    "variants": [
+      "Classic",
+      "Delight"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Corporate Lunch",
+      "Reception",
+      "Office Party"
+    ],
+    "description": "Idli Sambar is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 4.2
+  },
+  {
+    "item_name": "Vada",
+    "variants": [
+      "Delight",
+      "Royal"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Baby Shower",
+      "Housewarming",
+      "Get-together"
+    ],
+    "description": "Vada is a popular vegetarian dessert from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Pesarattu",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Wedding",
+      "Corporate Lunch",
+      "Birthday Party",
+      "Baby Shower"
+    ],
+    "description": "Pesarattu is a popular vegetarian dessert from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.6
+  },
+  {
+    "item_name": "Bisibele Bath",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Brunch",
+      "Housewarming"
+    ],
+    "description": "Bisibele Bath is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 4.9
+  },
+  {
+    "item_name": "Vegetable Korma",
+    "variants": [
+      "Delight",
+      "Express"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Festival",
+      "Baby Shower",
+      "Brunch"
+    ],
+    "description": "Vegetable Korma is a popular vegetarian dessert from Indian (South) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Tamarind Rice",
+    "variants": [
+      "Delight",
+      "Express"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Housewarming",
+      "Office Party"
+    ],
+    "description": "Tamarind Rice is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 4.0
+  },
+  {
+    "item_name": "Paneer Butter Masala",
+    "variants": [
+      "Express",
+      "Special"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Office Party",
+      "Housewarming",
+      "Dinner Party",
+      "Baby Shower"
+    ],
+    "description": "Paneer Butter Masala is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Dal Tadka",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Office Party",
+      "Festival",
+      "Brunch",
+      "Reception"
+    ],
+    "description": "Dal Tadka is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Vegetable Biryani",
+    "variants": [
+      "Classic",
+      "Special"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Reception",
+      "Baby Shower",
+      "Get-together"
+    ],
+    "description": "Vegetable Biryani is a popular vegetarian dessert from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 4.4
+  },
+  {
+    "item_name": "Masala Dosa",
+    "variants": [
+      "Special",
+      "Express"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Reception",
+      "Birthday Party"
+    ],
+    "description": "Masala Dosa is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Chole Bhature",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Corporate Lunch",
+      "Housewarming",
+      "Brunch"
+    ],
+    "description": "Chole Bhature is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.3
+  },
+  {
+    "item_name": "Rajma Chawal",
+    "variants": [
+      "Classic",
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Office Party",
+      "Reception",
+      "Housewarming"
+    ],
+    "description": "Rajma Chawal is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.6
+  },
+  {
+    "item_name": "Palak Paneer",
+    "variants": [
+      "Classic",
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Housewarming",
+      "Reception",
+      "Baby Shower",
+      "Brunch"
+    ],
+    "description": "Palak Paneer is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 4.8
+  },
+  {
+    "item_name": "Aloo Gobi",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Baby Shower",
+      "Brunch"
+    ],
+    "description": "Aloo Gobi is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Baingan Bharta",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Wedding",
+      "Reception"
+    ],
+    "description": "Baingan Bharta is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Dhokla",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Get-together",
+      "Festival",
+      "Dinner Party"
+    ],
+    "description": "Dhokla is a popular vegetarian main course from Indian (West) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 4.6
+  },
+  {
+    "item_name": "Undhiyu",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Wedding",
+      "Dinner Party"
+    ],
+    "description": "Undhiyu is a popular vegetarian appetizer from Indian (West) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Veg Pulao",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Corporate Lunch",
+      "Birthday Party"
+    ],
+    "description": "Veg Pulao is a popular vegetarian dessert from Indian (South) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.4
+  },
+  {
+    "item_name": "Malai Kofta",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Dinner Party",
+      "Baby Shower"
+    ],
+    "description": "Malai Kofta is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 4.5
+  },
+  {
+    "item_name": "Sambar Rice",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Birthday Party",
+      "Get-together",
+      "Office Party",
+      "Corporate Lunch"
+    ],
+    "description": "Sambar Rice is a popular vegetarian dessert from Indian (South) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Kadhi Pakora",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Housewarming",
+      "Reception",
+      "Corporate Lunch",
+      "Wedding"
+    ],
+    "description": "Kadhi Pakora is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 4.3
+  },
+  {
+    "item_name": "Pav Bhaji",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Office Party",
+      "Wedding"
+    ],
+    "description": "Pav Bhaji is a popular vegetarian dessert from Indian (West) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 4.2
+  },
+  {
+    "item_name": "Veg Fried Rice",
+    "variants": [
+      "Royal",
+      "Delight"
+    ],
+    "cuisine": "Indian (Indo-Chinese)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Baby Shower",
+      "Housewarming",
+      "Wedding"
+    ],
+    "description": "Veg Fried Rice is a popular vegetarian main course from Indian (Indo-Chinese) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Paneer Tikka",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Reception",
+      "Birthday Party"
+    ],
+    "description": "Paneer Tikka is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Rasgulla",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Indian (East)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Birthday Party",
+      "Brunch",
+      "Corporate Lunch",
+      "Baby Shower"
+    ],
+    "description": "Rasgulla is a popular vegetarian main course from Indian (East) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.4
+  },
+  {
+    "item_name": "Rasmalai",
+    "variants": [
+      "Express",
+      "Special"
+    ],
+    "cuisine": "Indian (East)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Festival",
+      "Brunch",
+      "Birthday Party",
+      "Housewarming"
+    ],
+    "description": "Rasmalai is a popular vegetarian dessert from Indian (East) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 4.1
+  },
+  {
+    "item_name": "Kesar Kulfi",
+    "variants": [
+      "Classic",
+      "Delight"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Dinner Party",
+      "Baby Shower",
+      "Get-together"
+    ],
+    "description": "Kesar Kulfi is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 4.9
+  },
+  {
+    "item_name": "Gajar Halwa",
+    "variants": [
+      "Delight",
+      "Classic"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Dinner Party",
+      "Wedding",
+      "Housewarming",
+      "Reception"
+    ],
+    "description": "Gajar Halwa is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 4.6
+  },
+  {
+    "item_name": "Jalebi",
+    "variants": [
+      "Special",
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Get-together",
+      "Corporate Lunch",
+      "Birthday Party",
+      "Office Party"
+    ],
+    "description": "Jalebi is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.1
+  },
+  {
+    "item_name": "Gulab Jamun",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Dinner Party",
+      "Baby Shower",
+      "Wedding"
+    ],
+    "description": "Gulab Jamun is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 4.5
+  },
+  {
+    "item_name": "Idli Sambar",
+    "variants": [
+      "Special",
+      "Royal"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Office Party",
+      "Baby Shower",
+      "Corporate Lunch",
+      "Festival"
+    ],
+    "description": "Idli Sambar is a popular vegetarian dessert from Indian (South) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.1
+  },
+  {
+    "item_name": "Vada",
+    "variants": [
+      "Classic",
+      "Special"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Festival",
+      "Get-together",
+      "Baby Shower",
+      "Housewarming"
+    ],
+    "description": "Vada is a popular vegetarian dessert from Indian (South) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.9
+  },
+  {
+    "item_name": "Pesarattu",
+    "variants": [
+      "Express",
+      "Delight"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Wedding",
+      "Dinner Party",
+      "Reception",
+      "Birthday Party"
+    ],
+    "description": "Pesarattu is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.8
+  },
+  {
+    "item_name": "Bisibele Bath",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Baby Shower",
+      "Brunch",
+      "Corporate Lunch"
+    ],
+    "description": "Bisibele Bath is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 4.4
+  },
+  {
+    "item_name": "Vegetable Korma",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Wedding",
+      "Festival",
+      "Get-together"
+    ],
+    "description": "Vegetable Korma is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Tamarind Rice",
+    "variants": [
+      "Classic",
+      "Delight"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Festival",
+      "Wedding",
+      "Get-together",
+      "Baby Shower"
+    ],
+    "description": "Tamarind Rice is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 5.0
+  },
+  {
+    "item_name": "Paneer Butter Masala",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Reception",
+      "Office Party",
+      "Wedding",
+      "Festival"
+    ],
+    "description": "Paneer Butter Masala is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.9
+  },
+  {
+    "item_name": "Dal Tadka",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Get-together",
+      "Brunch",
+      "Corporate Lunch"
+    ],
+    "description": "Dal Tadka is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Vegetable Biryani",
+    "variants": [
+      "Classic",
+      "Delight"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Reception",
+      "Office Party"
+    ],
+    "description": "Vegetable Biryani is a popular vegetarian dessert from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Masala Dosa",
+    "variants": [
+      "Express",
+      "Delight"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Corporate Lunch",
+      "Housewarming",
+      "Brunch"
+    ],
+    "description": "Masala Dosa is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Chole Bhature",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Wedding",
+      "Dinner Party",
+      "Housewarming"
+    ],
+    "description": "Chole Bhature is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.9
+  },
+  {
+    "item_name": "Rajma Chawal",
+    "variants": [
+      "Classic",
+      "Special"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Housewarming",
+      "Wedding",
+      "Reception"
+    ],
+    "description": "Rajma Chawal is a popular vegetarian appetizer from Indian (North) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 4.5
+  },
+  {
+    "item_name": "Palak Paneer",
+    "variants": [
+      "Delight",
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Reception",
+      "Office Party"
+    ],
+    "description": "Palak Paneer is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.0
+  },
+  {
+    "item_name": "Aloo Gobi",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Housewarming",
+      "Baby Shower"
+    ],
+    "description": "Aloo Gobi is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 4.5
+  },
+  {
+    "item_name": "Baingan Bharta",
+    "variants": [
+      "Express",
+      "Special"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Wedding",
+      "Corporate Lunch"
+    ],
+    "description": "Baingan Bharta is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.5
+  },
+  {
+    "item_name": "Dhokla",
+    "variants": [
+      "Royal",
+      "Express"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Festival",
+      "Housewarming",
+      "Corporate Lunch"
+    ],
+    "description": "Dhokla is a popular vegetarian dessert from Indian (West) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.5
+  },
+  {
+    "item_name": "Undhiyu",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Reception",
+      "Dinner Party",
+      "Festival",
+      "Corporate Lunch"
+    ],
+    "description": "Undhiyu is a popular vegetarian appetizer from Indian (West) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Veg Pulao",
+    "variants": [
+      "Special",
+      "Express"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Get-together",
+      "Wedding"
+    ],
+    "description": "Veg Pulao is a popular vegetarian appetizer from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Malai Kofta",
+    "variants": [
+      "Special",
+      "Delight"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Dinner Party",
+      "Get-together"
+    ],
+    "description": "Malai Kofta is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 4.5
+  },
+  {
+    "item_name": "Sambar Rice",
+    "variants": [
+      "Delight",
+      "Classic"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Birthday Party",
+      "Housewarming"
+    ],
+    "description": "Sambar Rice is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 4.3
+  },
+  {
+    "item_name": "Kadhi Pakora",
+    "variants": [
+      "Royal",
+      "Classic"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Reception",
+      "Office Party",
+      "Dinner Party",
+      "Festival"
+    ],
+    "description": "Kadhi Pakora is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Pav Bhaji",
+    "variants": [
+      "Delight",
+      "Royal"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Housewarming",
+      "Corporate Lunch"
+    ],
+    "description": "Pav Bhaji is a popular vegetarian dessert from Indian (West) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.5
+  },
+  {
+    "item_name": "Veg Fried Rice",
+    "variants": [
+      "Delight",
+      "Special"
+    ],
+    "cuisine": "Indian (Indo-Chinese)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Wedding",
+      "Corporate Lunch"
+    ],
+    "description": "Veg Fried Rice is a popular vegetarian appetizer from Indian (Indo-Chinese) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Paneer Tikka",
+    "variants": [
+      "Special",
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Dinner Party",
+      "Birthday Party",
+      "Corporate Lunch"
+    ],
+    "description": "Paneer Tikka is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.4
+  },
+  {
+    "item_name": "Rasgulla",
+    "variants": [
+      "Classic",
+      "Express"
+    ],
+    "cuisine": "Indian (East)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Brunch",
+      "Corporate Lunch"
+    ],
+    "description": "Rasgulla is a popular vegetarian main course from Indian (East) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Rasmalai",
+    "variants": [
+      "Express",
+      "Delight"
+    ],
+    "cuisine": "Indian (East)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Birthday Party",
+      "Baby Shower",
+      "Festival",
+      "Wedding"
+    ],
+    "description": "Rasmalai is a popular vegetarian main course from Indian (East) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.3
+  },
+  {
+    "item_name": "Kesar Kulfi",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Corporate Lunch",
+      "Baby Shower",
+      "Housewarming"
+    ],
+    "description": "Kesar Kulfi is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.9
+  },
+  {
+    "item_name": "Gajar Halwa",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Housewarming",
+      "Get-together",
+      "Baby Shower"
+    ],
+    "description": "Gajar Halwa is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Jalebi",
+    "variants": [
+      "Express",
+      "Delight"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Brunch",
+      "Birthday Party"
+    ],
+    "description": "Jalebi is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Gulab Jamun",
+    "variants": [
+      "Royal",
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Get-together",
+      "Festival",
+      "Reception",
+      "Corporate Lunch"
+    ],
+    "description": "Gulab Jamun is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.4
+  },
+  {
+    "item_name": "Idli Sambar",
+    "variants": [
+      "Royal",
+      "Delight"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Baby Shower",
+      "Wedding",
+      "Housewarming"
+    ],
+    "description": "Idli Sambar is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Vada",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Get-together",
+      "Housewarming",
+      "Dinner Party",
+      "Corporate Lunch"
+    ],
+    "description": "Vada is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Pesarattu",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Housewarming",
+      "Wedding",
+      "Brunch"
+    ],
+    "description": "Pesarattu is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.5
+  },
+  {
+    "item_name": "Bisibele Bath",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Festival",
+      "Dinner Party"
+    ],
+    "description": "Bisibele Bath is a popular vegetarian appetizer from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.5
+  },
+  {
+    "item_name": "Vegetable Korma",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Birthday Party",
+      "Corporate Lunch"
+    ],
+    "description": "Vegetable Korma is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.8
+  },
+  {
+    "item_name": "Tamarind Rice",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Baby Shower",
+      "Office Party"
+    ],
+    "description": "Tamarind Rice is a popular vegetarian appetizer from Indian (South) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.1
+  },
+  {
+    "item_name": "Paneer Butter Masala",
+    "variants": [
+      "Delight",
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Wedding",
+      "Housewarming"
+    ],
+    "description": "Paneer Butter Masala is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Dal Tadka",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Reception",
+      "Office Party"
+    ],
+    "description": "Dal Tadka is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.5
+  },
+  {
+    "item_name": "Vegetable Biryani",
+    "variants": [
+      "Royal",
+      "Special"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Wedding",
+      "Baby Shower"
+    ],
+    "description": "Vegetable Biryani is a popular vegetarian dessert from Indian (South) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 4.2
+  },
+  {
+    "item_name": "Masala Dosa",
+    "variants": [
+      "Classic",
+      "Delight"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Brunch",
+      "Wedding"
+    ],
+    "description": "Masala Dosa is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Chole Bhature",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Dinner Party",
+      "Corporate Lunch",
+      "Brunch"
+    ],
+    "description": "Chole Bhature is a popular vegetarian appetizer from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.5
+  },
+  {
+    "item_name": "Rajma Chawal",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Get-together",
+      "Dinner Party",
+      "Wedding"
+    ],
+    "description": "Rajma Chawal is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Palak Paneer",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Festival",
+      "Get-together"
+    ],
+    "description": "Palak Paneer is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Aloo Gobi",
+    "variants": [
+      "Express",
+      "Classic"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Reception",
+      "Birthday Party",
+      "Get-together"
+    ],
+    "description": "Aloo Gobi is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Baingan Bharta",
+    "variants": [
+      "Express",
+      "Delight"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Baby Shower",
+      "Get-together"
+    ],
+    "description": "Baingan Bharta is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.5
+  },
+  {
+    "item_name": "Dhokla",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Housewarming",
+      "Office Party",
+      "Get-together",
+      "Baby Shower"
+    ],
+    "description": "Dhokla is a popular vegetarian main course from Indian (West) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 4.9
+  },
+  {
+    "item_name": "Undhiyu",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Baby Shower",
+      "Office Party"
+    ],
+    "description": "Undhiyu is a popular vegetarian dessert from Indian (West) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.0
+  },
+  {
+    "item_name": "Veg Pulao",
+    "variants": [
+      "Royal",
+      "Express"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Baby Shower",
+      "Office Party",
+      "Get-together"
+    ],
+    "description": "Veg Pulao is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.0
+  },
+  {
+    "item_name": "Malai Kofta",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Dinner Party",
+      "Get-together",
+      "Reception"
+    ],
+    "description": "Malai Kofta is a popular vegetarian appetizer from Indian (North) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Sambar Rice",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Get-together",
+      "Office Party",
+      "Reception"
+    ],
+    "description": "Sambar Rice is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 5.0
+  },
+  {
+    "item_name": "Kadhi Pakora",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Corporate Lunch",
+      "Baby Shower"
+    ],
+    "description": "Kadhi Pakora is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Pav Bhaji",
+    "variants": [
+      "Delight",
+      "Classic"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Corporate Lunch",
+      "Get-together",
+      "Office Party"
+    ],
+    "description": "Pav Bhaji is a popular vegetarian main course from Indian (West) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.6
+  },
+  {
+    "item_name": "Veg Fried Rice",
+    "variants": [
+      "Special",
+      "Royal"
+    ],
+    "cuisine": "Indian (Indo-Chinese)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Birthday Party",
+      "Office Party",
+      "Dinner Party",
+      "Corporate Lunch"
+    ],
+    "description": "Veg Fried Rice is a popular vegetarian main course from Indian (Indo-Chinese) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.1
+  },
+  {
+    "item_name": "Paneer Tikka",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Get-together",
+      "Baby Shower"
+    ],
+    "description": "Paneer Tikka is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Rasgulla",
+    "variants": [
+      "Royal",
+      "Classic"
+    ],
+    "cuisine": "Indian (East)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Dinner Party",
+      "Get-together",
+      "Housewarming",
+      "Baby Shower"
+    ],
+    "description": "Rasgulla is a popular vegetarian main course from Indian (East) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.5
+  },
+  {
+    "item_name": "Rasmalai",
+    "variants": [
+      "Royal",
+      "Classic"
+    ],
+    "cuisine": "Indian (East)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Festival",
+      "Brunch",
+      "Housewarming"
+    ],
+    "description": "Rasmalai is a popular vegetarian dessert from Indian (East) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.2
+  },
+  {
+    "item_name": "Kesar Kulfi",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Get-together",
+      "Housewarming",
+      "Wedding"
+    ],
+    "description": "Kesar Kulfi is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.8
+  },
+  {
+    "item_name": "Gajar Halwa",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Dinner Party",
+      "Corporate Lunch"
+    ],
+    "description": "Gajar Halwa is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 4.1
+  },
+  {
+    "item_name": "Jalebi",
+    "variants": [
+      "Special",
+      "Royal"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Baby Shower",
+      "Office Party"
+    ],
+    "description": "Jalebi is a popular vegetarian appetizer from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Gulab Jamun",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Baby Shower",
+      "Festival"
+    ],
+    "description": "Gulab Jamun is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.6
+  },
+  {
+    "item_name": "Idli Sambar",
+    "variants": [
+      "Delight",
+      "Royal"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Office Party",
+      "Festival"
+    ],
+    "description": "Idli Sambar is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.6
+  },
+  {
+    "item_name": "Vada",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Corporate Lunch",
+      "Housewarming"
+    ],
+    "description": "Vada is a popular vegetarian appetizer from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 4.1
+  },
+  {
+    "item_name": "Pesarattu",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Wedding",
+      "Dinner Party",
+      "Get-together"
+    ],
+    "description": "Pesarattu is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Bisibele Bath",
+    "variants": [
+      "Special",
+      "Classic"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Festival",
+      "Birthday Party"
+    ],
+    "description": "Bisibele Bath is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.3
+  },
+  {
+    "item_name": "Vegetable Korma",
+    "variants": [
+      "Delight",
+      "Classic"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Baby Shower",
+      "Office Party"
+    ],
+    "description": "Vegetable Korma is a popular vegetarian dessert from Indian (South) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.9
+  },
+  {
+    "item_name": "Tamarind Rice",
+    "variants": [
+      "Express",
+      "Classic"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Brunch",
+      "Housewarming",
+      "Reception"
+    ],
+    "description": "Tamarind Rice is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Paneer Butter Masala",
+    "variants": [
+      "Express",
+      "Classic"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Reception",
+      "Corporate Lunch",
+      "Birthday Party"
+    ],
+    "description": "Paneer Butter Masala is a popular vegetarian appetizer from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.9
+  },
+  {
+    "item_name": "Dal Tadka",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Festival",
+      "Office Party"
+    ],
+    "description": "Dal Tadka is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.3
+  },
+  {
+    "item_name": "Vegetable Biryani",
+    "variants": [
+      "Delight",
+      "Classic"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Reception",
+      "Get-together",
+      "Dinner Party"
+    ],
+    "description": "Vegetable Biryani is a popular vegetarian dessert from Indian (South) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 4.3
+  },
+  {
+    "item_name": "Masala Dosa",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Brunch",
+      "Wedding",
+      "Corporate Lunch"
+    ],
+    "description": "Masala Dosa is a popular vegetarian dessert from Indian (South) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.6
+  },
+  {
+    "item_name": "Chole Bhature",
+    "variants": [
+      "Delight",
+      "Classic"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Corporate Lunch",
+      "Reception",
+      "Dinner Party"
+    ],
+    "description": "Chole Bhature is a popular vegetarian appetizer from Indian (North) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 3.5
+  },
+  {
+    "item_name": "Rajma Chawal",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Office Party",
+      "Reception",
+      "Baby Shower"
+    ],
+    "description": "Rajma Chawal is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Palak Paneer",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Get-together",
+      "Housewarming",
+      "Corporate Lunch"
+    ],
+    "description": "Palak Paneer is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 4.3
+  },
+  {
+    "item_name": "Aloo Gobi",
+    "variants": [
+      "Delight",
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Housewarming",
+      "Baby Shower",
+      "Birthday Party"
+    ],
+    "description": "Aloo Gobi is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 4.4
+  },
+  {
+    "item_name": "Baingan Bharta",
+    "variants": [
+      "Special",
+      "Delight"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Reception",
+      "Get-together",
+      "Wedding",
+      "Birthday Party"
+    ],
+    "description": "Baingan Bharta is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.0
+  },
+  {
+    "item_name": "Dhokla",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Get-together",
+      "Dinner Party",
+      "Reception"
+    ],
+    "description": "Dhokla is a popular vegetarian main course from Indian (West) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Undhiyu",
+    "variants": [
+      "Delight",
+      "Express"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Reception",
+      "Corporate Lunch",
+      "Dinner Party"
+    ],
+    "description": "Undhiyu is a popular vegetarian main course from Indian (West) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 5.0
+  },
+  {
+    "item_name": "Veg Pulao",
+    "variants": [
+      "Classic",
+      "Royal"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Housewarming",
+      "Baby Shower",
+      "Corporate Lunch"
+    ],
+    "description": "Veg Pulao is a popular vegetarian dessert from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 3.5
+  },
+  {
+    "item_name": "Malai Kofta",
+    "variants": [
+      "Classic",
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Wedding",
+      "Housewarming",
+      "Birthday Party",
+      "Get-together"
+    ],
+    "description": "Malai Kofta is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 4.4
+  },
+  {
+    "item_name": "Sambar Rice",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Housewarming",
+      "Birthday Party",
+      "Dinner Party",
+      "Reception"
+    ],
+    "description": "Sambar Rice is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Kadhi Pakora",
+    "variants": [
+      "Classic",
+      "Royal"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Corporate Lunch",
+      "Reception"
+    ],
+    "description": "Kadhi Pakora is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.2
+  },
+  {
+    "item_name": "Pav Bhaji",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Festival",
+      "Wedding",
+      "Housewarming"
+    ],
+    "description": "Pav Bhaji is a popular vegetarian main course from Indian (West) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Veg Fried Rice",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (Indo-Chinese)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Dinner Party",
+      "Birthday Party",
+      "Housewarming",
+      "Wedding"
+    ],
+    "description": "Veg Fried Rice is a popular vegetarian appetizer from Indian (Indo-Chinese) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Paneer Tikka",
+    "variants": [
+      "Express",
+      "Royal"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Festival",
+      "Housewarming",
+      "Baby Shower"
+    ],
+    "description": "Paneer Tikka is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Rasgulla",
+    "variants": [
+      "Delight",
+      "Special"
+    ],
+    "cuisine": "Indian (East)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Office Party",
+      "Housewarming",
+      "Festival",
+      "Brunch"
+    ],
+    "description": "Rasgulla is a popular vegetarian dessert from Indian (East) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Rasmalai",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (East)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Brunch",
+      "Reception"
+    ],
+    "description": "Rasmalai is a popular vegetarian dessert from Indian (East) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Kesar Kulfi",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Dinner Party",
+      "Festival",
+      "Corporate Lunch",
+      "Office Party"
+    ],
+    "description": "Kesar Kulfi is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 4.1
+  },
+  {
+    "item_name": "Gajar Halwa",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Brunch",
+      "Housewarming",
+      "Baby Shower",
+      "Reception"
+    ],
+    "description": "Gajar Halwa is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Jalebi",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Festival",
+      "Office Party",
+      "Housewarming",
+      "Wedding"
+    ],
+    "description": "Jalebi is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Gulab Jamun",
+    "variants": [
+      "Express",
+      "Classic"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Dinner Party",
+      "Brunch"
+    ],
+    "description": "Gulab Jamun is a popular vegetarian main course from Indian (North) cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Idli Sambar",
+    "variants": [
+      "Express",
+      "Delight"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Get-together",
+      "Housewarming",
+      "Dinner Party"
+    ],
+    "description": "Idli Sambar is a popular vegetarian appetizer from Indian (South) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Vada",
+    "variants": [
+      "Express",
+      "Classic"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Reception",
+      "Office Party",
+      "Brunch",
+      "Corporate Lunch"
+    ],
+    "description": "Vada is a popular vegetarian appetizer from Indian (South) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.8
+  },
+  {
+    "item_name": "Pesarattu",
+    "variants": [
+      "Delight",
+      "Royal"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Festival",
+      "Corporate Lunch"
+    ],
+    "description": "Pesarattu is a popular vegetarian appetizer from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.4
+  },
+  {
+    "item_name": "Bisibele Bath",
+    "variants": [
+      "Special",
+      "Classic"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Birthday Party",
+      "Brunch",
+      "Get-together",
+      "Corporate Lunch"
+    ],
+    "description": "Bisibele Bath is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 4.4
+  },
+  {
+    "item_name": "Vegetable Korma",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Festival",
+      "Office Party",
+      "Baby Shower"
+    ],
+    "description": "Vegetable Korma is a popular vegetarian main course from Indian (South) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.3
+  },
+  {
+    "item_name": "Tamarind Rice",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Brunch",
+      "Get-together"
+    ],
+    "description": "Tamarind Rice is a popular vegetarian dessert from Indian (South) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.2
+  },
+  {
+    "item_name": "Pasta Alfredo",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Get-together",
+      "Wedding"
+    ],
+    "description": "Pasta Alfredo is a popular vegetarian dessert from Italian cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Margherita Pizza",
+    "variants": [
+      "Royal",
+      "Classic"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Office Party",
+      "Get-together",
+      "Wedding",
+      "Festival"
+    ],
+    "description": "Margherita Pizza is a popular vegetarian appetizer from Italian cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.1
+  },
+  {
+    "item_name": "Vegetable Lasagna",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Wedding",
+      "Birthday Party"
+    ],
+    "description": "Vegetable Lasagna is a popular vegetarian dessert from Italian cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 5.0
+  },
+  {
+    "item_name": "Veg Manchurian",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Chinese",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Corporate Lunch",
+      "Reception"
+    ],
+    "description": "Veg Manchurian is a popular vegetarian appetizer from Chinese cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.8
+  },
+  {
+    "item_name": "Hakka Noodles",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Chinese",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Birthday Party",
+      "Festival",
+      "Office Party",
+      "Get-together"
+    ],
+    "description": "Hakka Noodles is a popular vegetarian main course from Chinese cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 4.9
+  },
+  {
+    "item_name": "Spring Rolls",
+    "variants": [
+      "Royal",
+      "Delight"
+    ],
+    "cuisine": "Chinese",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Brunch",
+      "Housewarming"
+    ],
+    "description": "Spring Rolls is a popular vegetarian main course from Chinese cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 4.6
+  },
+  {
+    "item_name": "Falafel Wrap",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Mediterranean",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Birthday Party",
+      "Get-together",
+      "Housewarming",
+      "Baby Shower"
+    ],
+    "description": "Falafel Wrap is a popular vegetarian main course from Mediterranean cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.2
+  },
+  {
+    "item_name": "Hummus Platter",
+    "variants": [
+      "Delight",
+      "Special"
+    ],
+    "cuisine": "Mediterranean",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Corporate Lunch",
+      "Brunch"
+    ],
+    "description": "Hummus Platter is a popular vegetarian appetizer from Mediterranean cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Greek Salad",
+    "variants": [
+      "Special",
+      "Express"
+    ],
+    "cuisine": "Mediterranean",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Baby Shower",
+      "Dinner Party",
+      "Reception",
+      "Corporate Lunch"
+    ],
+    "description": "Greek Salad is a popular vegetarian main course from Mediterranean cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Veg Quesadilla",
+    "variants": [
+      "Classic",
+      "Royal"
+    ],
+    "cuisine": "Mexican",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Reception",
+      "Festival",
+      "Housewarming",
+      "Dinner Party"
+    ],
+    "description": "Veg Quesadilla is a popular vegetarian main course from Mexican cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 5.0
+  },
+  {
+    "item_name": "Tacos",
+    "variants": [
+      "Special",
+      "Delight"
+    ],
+    "cuisine": "Mexican",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Housewarming",
+      "Festival",
+      "Corporate Lunch"
+    ],
+    "description": "Tacos is a popular vegetarian main course from Mexican cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 4.9
+  },
+  {
+    "item_name": "Burrito Bowl",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Mexican",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Get-together",
+      "Birthday Party",
+      "Office Party"
+    ],
+    "description": "Burrito Bowl is a popular vegetarian main course from Mexican cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Veg Sushi Roll",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Japanese",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Baby Shower",
+      "Housewarming",
+      "Festival",
+      "Brunch"
+    ],
+    "description": "Veg Sushi Roll is a popular vegetarian appetizer from Japanese cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Pad Thai",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Thai",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Office Party",
+      "Birthday Party",
+      "Dinner Party"
+    ],
+    "description": "Pad Thai is a popular vegetarian dessert from Thai cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 4.3
+  },
+  {
+    "item_name": "Green Curry",
+    "variants": [
+      "Classic",
+      "Royal"
+    ],
+    "cuisine": "Thai",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Get-together",
+      "Brunch",
+      "Baby Shower",
+      "Birthday Party"
+    ],
+    "description": "Green Curry is a popular vegetarian main course from Thai cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Veg Burger",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "American",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Corporate Lunch",
+      "Get-together",
+      "Reception",
+      "Birthday Party"
+    ],
+    "description": "Veg Burger is a popular vegetarian main course from American cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.5
+  },
+  {
+    "item_name": "Veg Sandwich",
+    "variants": [
+      "Special",
+      "Classic"
+    ],
+    "cuisine": "American",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Corporate Lunch",
+      "Baby Shower",
+      "Get-together",
+      "Wedding"
+    ],
+    "description": "Veg Sandwich is a popular vegetarian main course from American cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.1
+  },
+  {
+    "item_name": "Cheese Nachos",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Mexican",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Dinner Party",
+      "Housewarming"
+    ],
+    "description": "Cheese Nachos is a popular vegetarian appetizer from Mexican cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Penne Arrabbiata",
+    "variants": [
+      "Delight",
+      "Express"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Festival",
+      "Birthday Party",
+      "Baby Shower",
+      "Corporate Lunch"
+    ],
+    "description": "Penne Arrabbiata is a popular vegetarian main course from Italian cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Risotto",
+    "variants": [
+      "Special",
+      "Delight"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Office Party",
+      "Brunch",
+      "Reception",
+      "Festival"
+    ],
+    "description": "Risotto is a popular vegetarian main course from Italian cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.6
+  },
+  {
+    "item_name": "Pasta Alfredo",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Wedding",
+      "Birthday Party",
+      "Baby Shower"
+    ],
+    "description": "Pasta Alfredo is a popular vegetarian main course from Italian cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 4.1
+  },
+  {
+    "item_name": "Margherita Pizza",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Corporate Lunch",
+      "Festival"
+    ],
+    "description": "Margherita Pizza is a popular vegetarian dessert from Italian cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Vegetable Lasagna",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Wedding",
+      "Reception",
+      "Birthday Party",
+      "Office Party"
+    ],
+    "description": "Vegetable Lasagna is a popular vegetarian dessert from Italian cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Veg Manchurian",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Chinese",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Baby Shower",
+      "Wedding",
+      "Corporate Lunch",
+      "Festival"
+    ],
+    "description": "Veg Manchurian is a popular vegetarian main course from Chinese cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.3
+  },
+  {
+    "item_name": "Hakka Noodles",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Chinese",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Get-together",
+      "Baby Shower",
+      "Brunch"
+    ],
+    "description": "Hakka Noodles is a popular vegetarian appetizer from Chinese cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Spring Rolls",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Chinese",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Dinner Party",
+      "Brunch",
+      "Reception",
+      "Office Party"
+    ],
+    "description": "Spring Rolls is a popular vegetarian main course from Chinese cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 4.1
+  },
+  {
+    "item_name": "Falafel Wrap",
+    "variants": [
+      "Express",
+      "Delight"
+    ],
+    "cuisine": "Mediterranean",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Corporate Lunch",
+      "Birthday Party",
+      "Baby Shower",
+      "Festival"
+    ],
+    "description": "Falafel Wrap is a popular vegetarian main course from Mediterranean cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 4.9
+  },
+  {
+    "item_name": "Hummus Platter",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Mediterranean",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Birthday Party",
+      "Festival"
+    ],
+    "description": "Hummus Platter is a popular vegetarian main course from Mediterranean cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 4.8
+  },
+  {
+    "item_name": "Greek Salad",
+    "variants": [
+      "Special",
+      "Express"
+    ],
+    "cuisine": "Mediterranean",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Wedding",
+      "Get-together",
+      "Corporate Lunch"
+    ],
+    "description": "Greek Salad is a popular vegetarian main course from Mediterranean cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.5
+  },
+  {
+    "item_name": "Veg Quesadilla",
+    "variants": [
+      "Special",
+      "Classic"
+    ],
+    "cuisine": "Mexican",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Reception",
+      "Wedding",
+      "Housewarming",
+      "Festival"
+    ],
+    "description": "Veg Quesadilla is a popular vegetarian main course from Mexican cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Tacos",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Mexican",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Wedding",
+      "Get-together",
+      "Brunch"
+    ],
+    "description": "Tacos is a popular vegetarian main course from Mexican cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Burrito Bowl",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Mexican",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Office Party",
+      "Festival",
+      "Housewarming",
+      "Baby Shower"
+    ],
+    "description": "Burrito Bowl is a popular vegetarian main course from Mexican cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.5
+  },
+  {
+    "item_name": "Veg Sushi Roll",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Japanese",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Office Party",
+      "Reception",
+      "Housewarming"
+    ],
+    "description": "Veg Sushi Roll is a popular vegetarian appetizer from Japanese cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Pad Thai",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Thai",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Baby Shower",
+      "Wedding",
+      "Get-together",
+      "Reception"
+    ],
+    "description": "Pad Thai is a popular vegetarian main course from Thai cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Green Curry",
+    "variants": [
+      "Special",
+      "Royal"
+    ],
+    "cuisine": "Thai",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Wedding",
+      "Festival",
+      "Corporate Lunch"
+    ],
+    "description": "Green Curry is a popular vegetarian main course from Thai cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Veg Burger",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "American",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Housewarming",
+      "Wedding",
+      "Festival"
+    ],
+    "description": "Veg Burger is a popular vegetarian main course from American cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 4.4
+  },
+  {
+    "item_name": "Veg Sandwich",
+    "variants": [
+      "Special",
+      "Express"
+    ],
+    "cuisine": "American",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Brunch",
+      "Baby Shower"
+    ],
+    "description": "Veg Sandwich is a popular vegetarian main course from American cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Cheese Nachos",
+    "variants": [
+      "Royal",
+      "Express"
+    ],
+    "cuisine": "Mexican",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Corporate Lunch",
+      "Get-together",
+      "Dinner Party",
+      "Festival"
+    ],
+    "description": "Cheese Nachos is a popular vegetarian main course from Mexican cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Penne Arrabbiata",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Office Party",
+      "Birthday Party"
+    ],
+    "description": "Penne Arrabbiata is a popular vegetarian main course from Italian cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.3
+  },
+  {
+    "item_name": "Risotto",
+    "variants": [
+      "Delight",
+      "Express"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Corporate Lunch",
+      "Reception"
+    ],
+    "description": "Risotto is a popular vegetarian dessert from Italian cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.8
+  },
+  {
+    "item_name": "Pasta Alfredo",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Office Party",
+      "Reception"
+    ],
+    "description": "Pasta Alfredo is a popular vegetarian main course from Italian cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 3.5
+  },
+  {
+    "item_name": "Margherita Pizza",
+    "variants": [
+      "Special",
+      "Express"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Housewarming",
+      "Reception",
+      "Office Party",
+      "Corporate Lunch"
+    ],
+    "description": "Margherita Pizza is a popular vegetarian dessert from Italian cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.8
+  },
+  {
+    "item_name": "Vegetable Lasagna",
+    "variants": [
+      "Special",
+      "Delight"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Reception",
+      "Get-together",
+      "Brunch",
+      "Festival"
+    ],
+    "description": "Vegetable Lasagna is a popular vegetarian main course from Italian cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Veg Manchurian",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Chinese",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Baby Shower",
+      "Corporate Lunch",
+      "Brunch",
+      "Wedding"
+    ],
+    "description": "Veg Manchurian is a popular vegetarian appetizer from Chinese cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Hakka Noodles",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Chinese",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Corporate Lunch",
+      "Baby Shower"
+    ],
+    "description": "Hakka Noodles is a popular vegetarian dessert from Chinese cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 3.5
+  },
+  {
+    "item_name": "Spring Rolls",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Chinese",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Dinner Party",
+      "Wedding",
+      "Corporate Lunch"
+    ],
+    "description": "Spring Rolls is a popular vegetarian main course from Chinese cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Falafel Wrap",
+    "variants": [
+      "Special",
+      "Classic"
+    ],
+    "cuisine": "Mediterranean",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Festival",
+      "Office Party",
+      "Housewarming"
+    ],
+    "description": "Falafel Wrap is a popular vegetarian main course from Mediterranean cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 4.0
+  },
+  {
+    "item_name": "Hummus Platter",
+    "variants": [
+      "Special",
+      "Delight"
+    ],
+    "cuisine": "Mediterranean",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Brunch",
+      "Baby Shower"
+    ],
+    "description": "Hummus Platter is a popular vegetarian main course from Mediterranean cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Greek Salad",
+    "variants": [
+      "Delight",
+      "Special"
+    ],
+    "cuisine": "Mediterranean",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Dinner Party",
+      "Housewarming"
+    ],
+    "description": "Greek Salad is a popular vegetarian main course from Mediterranean cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 4.6
+  },
+  {
+    "item_name": "Veg Quesadilla",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Mexican",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Birthday Party",
+      "Office Party"
+    ],
+    "description": "Veg Quesadilla is a popular vegetarian main course from Mexican cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 4.2
+  },
+  {
+    "item_name": "Tacos",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Mexican",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Baby Shower",
+      "Housewarming"
+    ],
+    "description": "Tacos is a popular vegetarian main course from Mexican cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.4
+  },
+  {
+    "item_name": "Burrito Bowl",
+    "variants": [
+      "Express",
+      "Delight"
+    ],
+    "cuisine": "Mexican",
+    "ingredients": [],
+    "type": "Appetizer",
+    "occasion": [
+      "Housewarming",
+      "Festival"
+    ],
+    "description": "Burrito Bowl is a popular vegetarian appetizer from Mexican cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Plated",
+    "popularity_score": 4.8
+  },
+  {
+    "item_name": "Veg Sushi Roll",
+    "variants": [
+      "Express",
+      "Special"
+    ],
+    "cuisine": "Japanese",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Reception",
+      "Wedding"
+    ],
+    "description": "Veg Sushi Roll is a popular vegetarian dessert from Japanese cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Pad Thai",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Thai",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Birthday Party",
+      "Brunch",
+      "Office Party",
+      "Baby Shower"
+    ],
+    "description": "Pad Thai is a popular vegetarian main course from Thai cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.2
+  },
+  {
+    "item_name": "Green Curry",
+    "variants": [
+      "Express",
+      "Royal"
+    ],
+    "cuisine": "Thai",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Dinner Party",
+      "Get-together",
+      "Wedding",
+      "Corporate Lunch"
+    ],
+    "description": "Green Curry is a popular vegetarian main course from Thai cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 3.8
+  },
+  {
+    "item_name": "Veg Burger",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "American",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Brunch",
+      "Office Party"
+    ],
+    "description": "Veg Burger is a popular vegetarian main course from American cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 4.3
+  },
+  {
+    "item_name": "Veg Sandwich",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "American",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Birthday Party",
+      "Office Party",
+      "Festival"
+    ],
+    "description": "Veg Sandwich is a popular vegetarian main course from American cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.5
+  },
+  {
+    "item_name": "Cheese Nachos",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Mexican",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Reception",
+      "Baby Shower",
+      "Brunch"
+    ],
+    "description": "Cheese Nachos is a popular vegetarian main course from Mexican cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 4.8
+  },
+  {
+    "item_name": "Penne Arrabbiata",
+    "variants": [
+      "Special",
+      "Classic"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Housewarming",
+      "Office Party",
+      "Reception",
+      "Brunch"
+    ],
+    "description": "Penne Arrabbiata is a popular vegetarian main course from Italian cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.2
+  },
+  {
+    "item_name": "Risotto",
+    "variants": [
+      "Special",
+      "Delight"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [],
+    "type": "Main Course",
+    "occasion": [
+      "Reception",
+      "Baby Shower",
+      "Brunch",
+      "Festival"
+    ],
+    "description": "Risotto is a popular vegetarian main course from Italian cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 4.2
+  },
+  {
+    "item_name": "Meetha Paan",
+    "variants": [
+      "Express",
+      "Special"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Reception",
+      "Housewarming",
+      "Festival",
+      "Dinner Party"
+    ],
+    "description": "Meetha Paan is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 4.9
+  },
+  {
+    "item_name": "Chocolate Paan",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Festival",
+      "Corporate Lunch"
+    ],
+    "description": "Chocolate Paan is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.9
+  },
+  {
+    "item_name": "Mint Paan",
+    "variants": [
+      "Express",
+      "Royal"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Brunch",
+      "Dinner Party",
+      "Wedding",
+      "Office Party"
+    ],
+    "description": "Mint Paan is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 4.5
+  },
+  {
+    "item_name": "Dry Fruit Paan",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Festival",
+      "Birthday Party"
+    ],
+    "description": "Dry Fruit Paan is a popular vegetarian dessert from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Vanilla Ice Cream",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Continental",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Corporate Lunch",
+      "Brunch"
+    ],
+    "description": "Vanilla Ice Cream is a popular vegetarian dessert from Continental cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Chocolate Ice Cream",
+    "variants": [
+      "Royal",
+      "Classic"
+    ],
+    "cuisine": "Continental",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Housewarming",
+      "Baby Shower",
+      "Dinner Party",
+      "Corporate Lunch"
+    ],
+    "description": "Chocolate Ice Cream is a popular vegetarian dessert from Continental cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 4.9
+  },
+  {
+    "item_name": "Mango Ice Cream",
+    "variants": [
+      "Classic",
+      "Special"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Dessert",
+    "occasion": [
+      "Brunch",
+      "Housewarming",
+      "Festival",
+      "Dinner Party"
+    ],
+    "description": "Mango Ice Cream is a popular vegetarian dessert from Indian (West) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 4.6
+  },
+  {
+    "item_name": "Tutti Frutti Sundae",
+    "variants": [
+      "Special"
+    ],
+    "cuisine": "Continental",
+    "ingredients": [],
+    "type": "Beverage",
+    "occasion": [
+      "Reception",
+      "Dinner Party"
+    ],
+    "description": "Tutti Frutti Sundae is a popular vegetarian beverage from Continental cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Fruit Custard",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Beverage",
+    "occasion": [
+      "Reception",
+      "Get-together",
+      "Office Party",
+      "Brunch"
+    ],
+    "description": "Fruit Custard is a popular vegetarian beverage from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 4.6
+  },
+  {
+    "item_name": "Shrikhand",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Indian (West)",
+    "ingredients": [],
+    "type": "Beverage",
+    "occasion": [
+      "Corporate Lunch",
+      "Get-together",
+      "Birthday Party",
+      "Housewarming"
+    ],
+    "description": "Shrikhand is a popular vegetarian beverage from Indian (West) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Plated",
+    "popularity_score": 4.0
+  },
+  {
+    "item_name": "Mango Lassi",
+    "variants": [
+      "Delight"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Beverage",
+    "occasion": [
+      "Baby Shower",
+      "Office Party",
+      "Dinner Party"
+    ],
+    "description": "Mango Lassi is a popular vegetarian beverage from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 4.6
+  },
+  {
+    "item_name": "Jaljeera",
+    "variants": [
+      "Delight",
+      "Royal"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Beverage",
+    "occasion": [
+      "Baby Shower",
+      "Dinner Party"
+    ],
+    "description": "Jaljeera is a popular vegetarian beverage from Indian (North) cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 4.8
+  },
+  {
+    "item_name": "Sweet Lassi",
+    "variants": [
+      "Royal"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Beverage",
+    "occasion": [
+      "Get-together",
+      "Baby Shower",
+      "Birthday Party",
+      "Reception"
+    ],
+    "description": "Sweet Lassi is a popular vegetarian beverage from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 3.5
+  },
+  {
+    "item_name": "Masala Chai",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Beverage",
+    "occasion": [
+      "Wedding",
+      "Reception"
+    ],
+    "description": "Masala Chai is a popular vegetarian beverage from Indian (North) cuisine.",
+    "price_range": "Luxury",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 3.7
+  },
+  {
+    "item_name": "Cold Coffee",
+    "variants": [
+      "Classic",
+      "Special"
+    ],
+    "cuisine": "Continental",
+    "ingredients": [],
+    "type": "Beverage",
+    "occasion": [
+      "Get-together",
+      "Wedding",
+      "Brunch"
+    ],
+    "description": "Cold Coffee is a popular vegetarian beverage from Continental cuisine.",
+    "price_range": "Standard",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Buffet",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Lemon Mojito",
+    "variants": [
+      "Classic"
+    ],
+    "cuisine": "Continental",
+    "ingredients": [],
+    "type": "Beverage",
+    "occasion": [
+      "Reception",
+      "Birthday Party",
+      "Dinner Party"
+    ],
+    "description": "Lemon Mojito is a popular vegetarian beverage from Continental cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Plated",
+    "popularity_score": 4.7
+  },
+  {
+    "item_name": "Rose Sharbat",
+    "variants": [
+      "Classic",
+      "Delight"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Beverage",
+    "occasion": [
+      "Dinner Party",
+      "Corporate Lunch",
+      "Birthday Party"
+    ],
+    "description": "Rose Sharbat is a popular vegetarian beverage from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Buffet",
+    "popularity_score": 4.3
+  },
+  {
+    "item_name": "Coconut Water",
+    "variants": [
+      "Special",
+      "Classic"
+    ],
+    "cuisine": "Indian (South)",
+    "ingredients": [],
+    "type": "Beverage",
+    "occasion": [
+      "Office Party",
+      "Birthday Party",
+      "Wedding",
+      "Housewarming"
+    ],
+    "description": "Coconut Water is a popular vegetarian beverage from Indian (South) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Medium",
+    "serving_style": "Buffet",
+    "popularity_score": 3.6
+  },
+  {
+    "item_name": "Fruit Punch",
+    "variants": [
+      "Royal",
+      "Classic"
+    ],
+    "cuisine": "Continental",
+    "ingredients": [],
+    "type": "Beverage",
+    "occasion": [
+      "Office Party",
+      "Birthday Party",
+      "Baby Shower"
+    ],
+    "description": "Fruit Punch is a popular vegetarian beverage from Continental cuisine.",
+    "price_range": "Premium",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Spicy",
+    "serving_style": "Live Counter",
+    "popularity_score": 4.0
+  },
+  {
+    "item_name": "Thandai",
+    "variants": [
+      "Express"
+    ],
+    "cuisine": "Indian (North)",
+    "ingredients": [],
+    "type": "Beverage",
+    "occasion": [
+      "Festival",
+      "Brunch",
+      "Reception",
+      "Housewarming"
+    ],
+    "description": "Thandai is a popular vegetarian beverage from Indian (North) cuisine.",
+    "price_range": "Economy",
+    "dietary_preference": "Vegetarian",
+    "spice_level": "Mild",
+    "serving_style": "Live Counter",
+    "popularity_score": 5.0
+  }
+]
