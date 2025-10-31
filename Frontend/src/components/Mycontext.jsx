@@ -19,6 +19,7 @@ function MyProvider({ children }) {
     lastname: '',
     selectedEvent: '',
     menu: [],
+    address:'',
   });
   const MenuItems = [
     {
