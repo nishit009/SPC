@@ -6,7 +6,6 @@ package-lock.json
 yarn.lock
 
 # Environment variable files
-.env
 .env.local
 .env.*.local
 
